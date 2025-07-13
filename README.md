@@ -19,5 +19,6 @@ This is a basic web-based calculator built using HTML, CSS, and JavaScript. It p
 -📂 How to organize files (index.html, styles.css, main.js) in a simple project
 
 # Credits
-This Project is based on BroCode [![Watch the demo](https://img.youtube.com/vi/I5kj-YsmWjM/0.jpg)](https://youtu.be/I5kj-YsmWjM?si=DGqX9wBBg5j3QNz0)
+This Project is based on BroCode ▶️ [Watch Demo on YouTube](https://youtu.be/I5kj-YsmWjM?si=DGqX9wBBg5j3QNz0)
+
 
